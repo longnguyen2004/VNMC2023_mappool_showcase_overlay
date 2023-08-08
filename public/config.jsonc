@@ -1,0 +1,124 @@
+{
+    "tb_duration": 5000,
+    "mappool": [
+        {
+            "category": "RC",
+            "title": "Love Song [Black Dorna]",
+            "artist": "Luze",
+            "mapper": "Valedict",
+            "difficulty": "[Heartfelt 1.05x (365bpm)"
+        },
+        {
+            "category": "RC",
+            "title": "eden",
+            "artist": "Gram",
+            "mapper": "CPT_Sivelia",
+            "difficulty": "Drater Versus Drater's Requiem (edit) 1.1x"
+        },
+        {
+            "category": "RC",
+            "title": "Ambivalence before VIOLET EYES :. <ultima_resistatio>",
+            "artist": "Polarin",
+            "mapper": "Polarin",
+            "difficulty": "Rose & Violet // THE LAST STAND"
+        },
+        {
+            "category": "RC",
+            "title": "Violet Soul",
+            "artist": "Soleily",
+            "mapper": "mightyxd",
+            "difficulty": "Polarin's Ambivalence"
+        },
+        {
+            "category": "RC",
+            "title": "AMAZING BREAK (Cut Ver.)",
+            "artist": "TERRASPEX",
+            "mapper": "Lott",
+            "difficulty": "ETERNAL STRUGGLE 1.1x"
+        },
+        {
+            "category": "RC",
+            "title": "Angel's Salad",
+            "artist": "katagiri",
+            "mapper": "[Crz]Crysarlene",
+            "difficulty": "@/-/@"
+        },
+        {
+            "category": "RC",
+            "title": "titi",
+            "artist": "iboibo",
+            "mapper": "AHHHHHHHHHHHHHH",
+            "difficulty": "Steamy"
+        },
+        {
+            "category": "LN",
+            "title": "Anemone",
+            "artist": "DUSTCELL",
+            "mapper": "Hylotl",
+            "difficulty": "Moebius [1.05x Rate]"
+        },
+        {
+            "category": "LN",
+            "title": "All we need is HAPPY (WORLD'S) END.",
+            "artist": "polysha",
+            "mapper": "MyZterioN-",
+            "difficulty": "at the end (edit)"
+        },
+        {
+            "category": "LN",
+            "title": "Lemming Ming (kemu Remix)",
+            "artist": "Kairiki Bear feat. flower",
+            "mapper": "Micleak",
+            "difficulty": "I want to be compensated [0.975x Rate]"
+        },
+        {
+            "category": "LN",
+            "title": "Cyber Attack",
+            "artist": "Laur",
+            "mapper": "Logan636",
+            "difficulty": "Logan x Funk's Abandonment of Peace (cut)"
+        },
+        {
+            "category": "HB",
+            "title": "Dans la mer de son (Cut Ver.)",
+            "artist": "Camellia",
+            "mapper": "CPT_Sivelia",
+            "difficulty": "Toaph's Diabolos (edit) 1.1x"
+        },
+        {
+            "category": "HB",
+            "title": "Apollo",
+            "artist": "TJ.hangneil",
+            "mapper": "Lott",
+            "difficulty": "Anomaly behind the Lunar Shadow 1.05x"
+        },
+        {
+            "category": "HB",
+            "title": "Desert Theater",
+            "artist": "KikuoHana",
+            "mapper": "CPT_Sivelia",
+            "difficulty": "doctormango's tango in the ethereal sanctuary (cut) 1.05x"
+        },
+        {
+            "category": "SV",
+            "title": "MANTIS (Arcaea Ultra-Bloodrush VIP) feat. kiraku",
+            "artist": "Akira Complex",
+            "mapper": "Orca-",
+            "difficulty": "tomorrow comes from the ashes of yesterday"
+        },
+        {
+            "category": "SV",
+            "title": "give (Nightcore Ver.)",
+            "artist": "Slowpalace",
+            "mapper": "Micleak",
+            "difficulty": "Lott vs. Micleak's Tragic Love ExV"
+        },
+        {
+            "category": "TB",
+            "title": "Oblitus Requiem \\\\against the forsaken legacy//",
+            "artist": "t404:null",
+            "mapper": "Lott",
+            "difficulty": "Forsaken Treasure - Faithful End"
+        }
+    ]
+}

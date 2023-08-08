@@ -1,0 +1,124 @@
+h1, div {
+    font-family: "Satoshi-Medium";
+    font-weight: normal;
+}
+.card {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    padding: 1rem;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    background-color: #251e1e;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-blend-mode: soft-light;
+    border: 3px solid;
+    border-radius: 15px;
+
+    border-color: transparent;
+    &.RC {
+        border-color: #4e6f46;
+    }
+    &.LN {
+        border-color: #949155;
+    }
+    &.HB {
+        border-color: #68528d;
+    }
+    &.SV {
+        border-color: #40e0d0;
+    }
+    &.TB {
+        border-color: #fd7d68;
+    }
+}
+
+.info {
+    width: 100%;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    h1 {
+        margin: 0 1rem 0 0;
+        width: 100%;
+        white-space: nowrap;
+        overflow: hidden;
+    }
+
+    .category {
+        padding: 0.25rem 1rem;
+        background-color: #3a2f2d;
+        border-radius: 9999px;
+
+        font-family: "Felix-Titling-Regular";
+        font-size: 1.75rem;
+
+        &.RC {
+            color: #95ff7b
+        }
+        &.LN {
+            color: #fffab1
+        }
+        &.HB {
+            color: #ad7bff
+        }
+        &.SV {
+            color: #bdffff
+        }
+        &.TB {
+            color: #ed7663
+        }
+    }
+}
+
+.subinfo {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    > div {
+        width: 50%;
+        display: flex;
+        flex-direction: row;
+        overflow: hidden;
+        white-space: nowrap;
+
+        span {
+            font-family: "Satoshi-Light";
+        }
+        div {
+            margin: 0 0.5rem;
+        }
+    }
+}
+.placeholder {
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, gray 50%, transparent 0) repeat-x,
+        linear-gradient(90deg, gray 50%, transparent 0) repeat-x,
+        linear-gradient(0deg, gray 50%, transparent 0) repeat-y,
+        linear-gradient(0deg, gray 50%, transparent 0) repeat-y;
+    background-color: black;
+    background-size: 50px 3px, 50px 3px, 3px 50px, 3px 50px;
+    background-position: 0 0, 0 100%, 0 0, 100% 0;
+    animation: dashed-animated 1s infinite linear;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 15px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+@keyframes dashed-animated {
+    100% {
+        background-position: 50px 0, -50px 100%, 0 -50px, 100% 50px;
+    }
+}
